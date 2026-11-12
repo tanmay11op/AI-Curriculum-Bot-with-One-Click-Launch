@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-experimental
+chromadb
+pypdf
+numpy
+numexpr
